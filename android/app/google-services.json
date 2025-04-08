@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041613494309",
+    "project_id": "minihabittracker-c3707",
+    "storage_bucket": "minihabittracker-c3707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041613494309:android:07a95a8f74fc310a3f87cc",
+        "android_client_info": {
+          "package_name": "com.example.mini_habit_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTb2ZvJaFgBYOZ73j8yDt-v7PbweXbFE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
